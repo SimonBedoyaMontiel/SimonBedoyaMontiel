@@ -1,6 +1,6 @@
 ## Simón Bedoya
 
-**Data Scientist** · Estudiante de Ingeniería de Software e Ingeniería Mecatrónica
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=2800&pause=900&color=2F81F7&vCenter=true&width=540&height=40&lines=Data+Scientist;Del+dato+crudo+al+modelo+en+producci%C3%B3n;Ing.+de+Software+%2B+Ing.+Mecatr%C3%B3nica)](https://github.com/simonbm17)
 
 Trabajo en el punto donde los datos se convierten en decisiones. Vengo de tres formaciones que se complementan: mecatrónica me enseñó a entender sistemas completos, ingeniería de software a construirlos, y la ciencia de datos a sacarles respuestas.
 
