@@ -72,7 +72,7 @@ Sistema de predicción de stock para e-commerce, desarrollado con el equipo Metr
 
 ### Actualmente
 
-Terminé la carrera de Data Science en Henry y sigo cursando las dos ingenierías. Estoy abierto a mi primera oportunidad profesional en datos, en roles de análisis, ciencia de datos o machine learning. Me interesan especialmente los equipos donde el modelo no termina en un notebook, sino que llega a manos de alguien que lo usa para decidir.
+Terminé la carrera de Data Science en Henry y sigo cursando las dos ingenierías. Estoy abierto a mi primera oportunidad profesional en datos, en roles de análisis, ciencia de datos o machine learning. Busco un equipo donde pueda seguir aprendiendo y aportar en proyectos reales.
 
 ---
 
