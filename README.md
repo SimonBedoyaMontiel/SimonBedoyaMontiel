@@ -32,24 +32,47 @@ Sistema de predicción de stock para e-commerce, desarrollado con el equipo Metr
 
 ### Stack
 
+**Datos**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
+**Modelado**
+
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat)
+![LightGBM](https://img.shields.io/badge/LightGBM-9ACD32?style=flat)
+![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=flat)
+![statsmodels](https://img.shields.io/badge/statsmodels-4B8BBE?style=flat)
+
+**Despliegue y MLOps**
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+**Visualización**
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
+![Seaborn](https://img.shields.io/badge/Seaborn-5B8FA8?style=flat)
 
 ---
 
 ### Formación
 
-- **Data Science** — Soy Henry
+- **Data Science** — Soy Henry _(finalizado)_
 - **Ingeniería de Software** _(en curso)_
 - **Ingeniería Mecatrónica** _(en curso)_
+
+---
+
+### Actualmente
+
+Terminé la carrera de Data Science en Henry y sigo cursando las dos ingenierías. Estoy abierto a mi primera oportunidad profesional en datos, en roles de análisis, ciencia de datos o machine learning. Me interesan especialmente los equipos donde el modelo no termina en un notebook, sino que llega a manos de alguien que lo usa para decidir.
 
 ---
 
