@@ -21,7 +21,7 @@ Predicción del comportamiento de pago con el ciclo completo: EDA, cuatro modelo
 <br>
 
 <a href="https://github.com/simonbm17/bank-churn-prediction">
-  <img src="https://raw.githubusercontent.com/simonbm17/bank-churn-prediction/main/assets/banner.svg" alt="FinanceGuard — Predicción de Churn Bancario" width="100%">
+  <img src="https://raw.githubusercontent.com/simonbm17/bank-churn-prediction/main/assets/banner.png" alt="FinanceGuard — Predicción de Churn Bancario" width="100%">
 </a>
 
 Predicción y segmentación de abandono en un banco digital. El hallazgo llegó por partida doble: K-Means, sin recibir la variable de abandono, identificó por su cuenta el mismo segmento de alto riesgo que ya habían señalado los modelos supervisados.
