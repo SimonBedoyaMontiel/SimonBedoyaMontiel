@@ -11,7 +11,7 @@ Me interesa el ciclo completo — desde la limpieza del dato hasta el modelo des
 ### Proyectos
 
 <a href="https://github.com/simonbm17/credit-risk-mlops">
-  <img src="https://raw.githubusercontent.com/simonbm17/credit-risk-mlops/main/assets/banner.svg" alt="Riesgo Crediticio con enfoque MLOps" width="100%">
+  <img src="https://raw.githubusercontent.com/simonbm17/credit-risk-mlops/main/assets/banner.png" alt="Riesgo Crediticio con enfoque MLOps" width="100%">
 </a>
 
 Predicción del comportamiento de pago con el ciclo completo: EDA, cuatro modelos comparados y despliegue en una API con FastAPI y Docker. La primera evaluación daba un recall del 100%, sospechosamente perfecto — estaba midiendo la clase mayoritaria. Al corregirlo apareció el desempeño real sobre la clase que importa, la del 5%.
