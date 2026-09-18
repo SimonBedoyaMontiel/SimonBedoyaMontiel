@@ -86,6 +86,14 @@ Terminé la carrera de Data Science en Henry y sigo cursando las dos ingeniería
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/simonbm17/simonbm17/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simonbm17/simonbm17/output/github-snake.svg">
+  <img alt="Animación de una serpiente recorriendo el calendario de contribuciones de GitHub" src="https://raw.githubusercontent.com/simonbm17/simonbm17/output/github-snake.svg" width="100%">
+</picture>
+
+---
+
 ### Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sim%C3%B3n-bedoya-05bb57398/)

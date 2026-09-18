@@ -1,0 +1,38 @@
+name: Generar serpiente de contribuciones
+
+on:
+  # Se regenera una vez al dia para reflejar las contribuciones nuevas
+  schedule:
+    - cron: "0 */24 * * *"
+
+  # Permite ejecutarla a mano desde la pestana Actions
+  workflow_dispatch:
+
+  # Y cada vez que se actualiza el README
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Generar las animaciones (tema claro y oscuro)
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Publicar las animaciones en la rama output
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
