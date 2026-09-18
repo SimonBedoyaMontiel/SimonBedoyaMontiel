@@ -10,23 +10,33 @@ Me interesa el ciclo completo — desde la limpieza del dato hasta el modelo des
 
 ### Proyectos
 
-**[credit-risk-mlops](https://github.com/simonbm17/credit-risk-mlops)** — Riesgo crediticio con enfoque MLOps
+<a href="https://github.com/simonbm17/credit-risk-mlops">
+  <img src="https://raw.githubusercontent.com/simonbm17/credit-risk-mlops/main/assets/banner.svg" alt="Riesgo Crediticio con enfoque MLOps" width="100%">
+</a>
 
-Predicción del comportamiento de pago de clientes de crédito, con el ciclo completo: EDA, ingeniería de características, cuatro modelos comparados y despliegue en una API con FastAPI y Docker. El reto principal fue el desbalance de clases: los malos pagadores son solo el 5%. La primera evaluación daba un recall del 100%, sospechosamente perfecto — estaba midiendo la clase mayoritaria. Al corregirlo, el Random Forest quedó con un F1 de 0.84 sobre la clase de interés y un ROC-AUC de 0.96.
+Predicción del comportamiento de pago con el ciclo completo: EDA, cuatro modelos comparados y despliegue en una API con FastAPI y Docker. La primera evaluación daba un recall del 100%, sospechosamente perfecto — estaba midiendo la clase mayoritaria. Al corregirlo apareció el desempeño real sobre la clase que importa, la del 5%.
 
 `Python` · `scikit-learn` · `XGBoost` · `FastAPI` · `Docker` · `Streamlit`
 
-**[bank-churn-prediction](https://github.com/simonbm17/bank-churn-prediction)** — Predicción y segmentación de abandono de clientes
+<br>
 
-Un banco digital que pierde el 20% de sus clientes al año. El proyecto combina modelado supervisado para predecir quién se va (XGBoost, ROC-AUC de 0.870) con segmentación no supervisada para agrupar la acción comercial. El hallazgo más interesante llegó por partida doble: K-Means, sin recibir la variable de abandono, identificó por su cuenta el mismo segmento de alto riesgo que ya habían señalado los modelos supervisados.
+<a href="https://github.com/simonbm17/bank-churn-prediction">
+  <img src="https://raw.githubusercontent.com/simonbm17/bank-churn-prediction/main/assets/banner.svg" alt="FinanceGuard — Predicción de Churn Bancario" width="100%">
+</a>
+
+Predicción y segmentación de abandono en un banco digital. El hallazgo llegó por partida doble: K-Means, sin recibir la variable de abandono, identificó por su cuenta el mismo segmento de alto riesgo que ya habían señalado los modelos supervisados.
 
 `Python` · `scikit-learn` · `XGBoost` · `LightGBM` · `CatBoost` · `K-Means`
 
-**[seasonal-stock-recommender](https://github.com/simonbm17/seasonal-stock-recommender)** — Pronóstico de demanda estacional _(proyecto en equipo)_
+<br>
 
-Sistema de predicción de stock para e-commerce, desarrollado con el equipo MetricEdge. Incluye ETL reproducible, backtesting rolling sin fuga temporal y una demo en Streamlit con monitoreo de data drift. Comparamos tres métodos de pronóstico y ganó el más simple, con un error del 2.36%: agregar tendencia no aportaba nada en una serie sin crecimiento sostenido.
+<a href="https://github.com/simonbm17/seasonal-stock-recommender">
+  <img src="https://raw.githubusercontent.com/simonbm17/seasonal-stock-recommender/main/assets/banner.png" alt="MetricEdge — Sistema de Predicción de Stock" width="100%">
+</a>
 
-`Python` · `pandas` · `Streamlit` · `Power BI` · `statsmodels`
+Pronóstico de demanda estacional para e-commerce, desarrollado con el equipo MetricEdge. Comparamos tres métodos y ganó el más simple, con un error del 2,36%: agregar tendencia no aportaba nada en una serie sin crecimiento sostenido. **[Ver la demo en vivo →](https://final-proyect-irfde8x9bkbgmatc3ejyq7.streamlit.app/)**
+
+`Python` · `pandas` · `Streamlit` · `Power BI` · `statsmodels` · _proyecto en equipo_
 
 ---
 
