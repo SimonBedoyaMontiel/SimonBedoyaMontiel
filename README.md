@@ -96,4 +96,4 @@ Terminé la carrera de Data Science en Henry y sigo cursando las dos ingeniería
 
 ### Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sim%C3%B3n-bedoya-05bb57398/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simon-bedoya-montiel/)
