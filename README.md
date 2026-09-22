@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=2800&pause=900&color=2F81F7&vCenter=true&width=540&height=40&lines=Data+Scientist;Convierto+datos+en+decisiones;Ing.+de+Software+%2B+Ing.+Mecatr%C3%B3nica)](https://github.com/simonbm17)
 
-Soy Simón Bedoya, Data Analyst. Busco mi primer empleo como Analista de Datos Jr, y en paralelo sigo cursando Ingeniería de Software e Ingeniería Mecatrónica.
+Soy Simón Bedoya, Data Analyst. En paralelo curso Ingeniería de Software e Ingeniería Mecatrónica.
 
 Vengo de tres formaciones que se complementan: mecatrónica me enseñó a pensar en sistemas completos, ingeniería de software a construir código mantenible, y ciencia de datos a sacarle conclusiones confiables a la información. Esa base me lleva a revisar qué mide realmente una métrica antes de darla por buena, en vez de quedarme con el número que se ve bien.
 
