@@ -1,6 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0B1220&height=180&text=Sim%C3%B3n%20Bedoya%20Montiel&fontSize=38&fontColor=ffffff&fontAlignY=42&desc=Data%20Analyst%20%7C%20Python%20%C2%B7%20Power%20BI%20%C2%B7%20SQL&descAlignY=62&descSize=18&descColor=2dd4bf" width="100%" alt="Simón Bedoya Montiel — Data Analyst">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0B1220&height=180&text=Sim%C3%B3n%20Bedoya%20Montiel&fontSize=38&fontColor=ffffff&fontAlignY=42&desc=Data%20Analyst%20%7C%20Python%20%C2%B7%20Power%20BI%20%C2%B7%20SQL&descAlignY=62&descSize=18&descColor=58a6ff" width="100%" alt="Simón Bedoya Montiel — Data Analyst">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=2800&pause=900&color=2dd4bf&vCenter=true&width=540&height=40&lines=Data+Scientist;Convierto+datos+en+decisiones;Ing.+de+Software+%2B+Ing.+Mecatr%C3%B3nica)](https://github.com/simonbm17)
+<p align="center">
+  <a href="https://github.com/simonbm17">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=2800&pause=900&color=58a6ff&center=true&vCenter=true&width=540&height=40&lines=Data+Scientist;Convierto+datos+en+decisiones;Ing.+de+Software+%2B+Ing.+Mecatr%C3%B3nica" alt="Typing SVG">
+  </a>
+</p>
 
 Soy Simón Bedoya, Data Analyst. En paralelo curso Ingeniería de Software e Ingeniería Mecatrónica.
 
@@ -107,7 +111,7 @@ Pronóstico de demanda estacional para e-commerce, desarrollado con el equipo Me
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=simonbm17&background=0B1220&ring=2dd4bf&fire=2dd4bf&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=2dd4bf&sideLabels=8b98ab&dates=5b6b82&border=143B44&hide_border=false" alt="Racha de contribuciones en GitHub">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=simonbm17&background=0B1220&ring=58a6ff&fire=58a6ff&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=58a6ff&sideLabels=8b98ab&dates=5b6b82&border=143B44&hide_border=false" alt="Racha de contribuciones en GitHub">
 </p>
 
 <picture>
