@@ -12,7 +12,11 @@ Al final, de eso se trata todo esto para mí: entender bien un problema antes de
 
 ---
 
-### Stack
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,100:143B44&height=64&section=header&text=STACK&fontAlign=50&fontAlignY=58&fontSize=22&fontColor=E6EDF3" width="100%" alt="Stack">
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,sklearn,postgresql,fastapi,docker,git,github&theme=dark" alt="Iconos: Python, scikit-learn, SQL, FastAPI, Docker, Git, GitHub">
+</p>
 
 **Datos**
 
@@ -44,7 +48,7 @@ Al final, de eso se trata todo esto para mí: entender bien un problema antes de
 
 ---
 
-### Proyectos
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,100:143B44&height=64&section=header&text=PROYECTOS&fontAlign=50&fontAlignY=58&fontSize=22&fontColor=E6EDF3" width="100%" alt="Proyectos">
 
 <a href="https://github.com/simonbm17/techcore-sales-dashboard">
   <img src="https://raw.githubusercontent.com/simonbm17/techcore-sales-dashboard/main/assets/diagrama_er.png" alt="TechCore: análisis de ventas y dashboard en Power BI" width="100%">
@@ -86,7 +90,7 @@ Pronóstico de demanda estacional para e-commerce, desarrollado con el equipo Me
 
 ---
 
-### Formación
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,100:143B44&height=64&section=header&text=FORMACI%C3%93N&fontAlign=50&fontAlignY=58&fontSize=22&fontColor=E6EDF3" width="100%" alt="Formación">
 
 - **Data Science** — Soy Henry _(finalizado)_
 - **Ingeniería de Software** _(en curso)_
@@ -96,7 +100,9 @@ Pronóstico de demanda estacional para e-commerce, desarrollado con el equipo Me
 
 ### Actualmente
 
-Terminé la carrera de Data Science en Henry y sigo cursando las dos ingenierías. Estoy abierto a mi primera oportunidad profesional en datos, en roles de análisis, ciencia de datos o machine learning. Busco un equipo donde pueda seguir aprendiendo y aportar en proyectos reales.
+- 📊 Reforzando SQL a fondo, con la certificación SQL Associate de DataCamp como meta cercana.
+- 🎓 Cursando en paralelo Ingeniería de Software e Ingeniería Mecatrónica.
+- 💼 Buscando mi primera oportunidad como Analista de Datos Jr.
 
 ---
 
@@ -108,6 +114,6 @@ Terminé la carrera de Data Science en Henry y sigo cursando las dos ingeniería
 
 ---
 
-### Contacto
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,100:143B44&height=64&section=header&text=CONTACTO&fontAlign=50&fontAlignY=58&fontSize=22&fontColor=E6EDF3" width="100%" alt="Contacto">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simon-bedoya-montiel/)
