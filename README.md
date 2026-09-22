@@ -2,9 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=2800&pause=900&color=2F81F7&vCenter=true&width=540&height=40&lines=Data+Scientist;Convierto+datos+en+decisiones;Ing.+de+Software+%2B+Ing.+Mecatr%C3%B3nica)](https://github.com/simonbm17)
 
-Trabajo en el punto donde los datos se convierten en decisiones. Vengo de tres formaciones que se complementan: mecatrónica me enseñó a entender sistemas completos, ingeniería de software a construirlos, y la ciencia de datos a sacarles respuestas.
+Estudio Ingeniería de Software e Ingeniería Mecatrónica, y en 2026 terminé el bootcamp de Data Science de Henry. No traigo años de experiencia laboral — traigo cuatro proyectos completos, de punta a punta, con el código, los datos y los resultados abajo, para que los revises tú mismo en vez de tener que creerme.
 
-Me interesa el ciclo completo — desde la limpieza del dato hasta el modelo desplegado y monitoreado en producción — y elegir el modelo que resuelve el problema, no el más complejo.
+En uno de ellos, una primera evaluación me dio un recall del 100% — sospechosamente perfecto. Estaba midiendo la clase equivocada, la mayoritaria en vez de la que le importaba al negocio. Corregirlo cambió por completo qué modelo terminó siendo el correcto. Ese es el tipo de rigor que le aplico a cada proyecto: no me quedo con el número que se ve bien, reviso qué está midiendo de verdad.
+
+Trabajo con Python, pandas, scikit-learn, Power BI y SQL (en formación). Me interesa en particular la parte que casi nadie prioriza en un curso: que el modelo llegue a producción y alguien pueda confiar en él seis meses después. Por eso dos de mis proyectos no terminan en el entrenamiento — incluyen despliegue con Docker y FastAPI, y monitoreo de data drift.
+
+Busco mi primera oportunidad como Analista de Datos o Data Scientist Jr. Si algo de lo de abajo te sirve, hablemos.
 
 ---
 
