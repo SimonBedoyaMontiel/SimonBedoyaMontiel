@@ -8,7 +8,7 @@ Vengo de tres formaciones que se complementan: mecatrónica me enseñó a pensar
 
 Trabajo principalmente con Python, pandas, Power BI y SQL, que sigo reforzando todos los días. Mi enfoque está en el análisis de datos, aunque también aplico modelos de machine learning cuando el problema lo requiere, y me interesa que las soluciones sigan funcionando bien después de entregadas, no solo el día que se construyen.
 
-Estoy buscando mi primer empleo como Analista de Datos. Si mi perfil encaja con lo que necesita tu equipo, conversemos.
+Al final, de eso se trata todo esto para mí: entender bien un problema antes de resolverlo, y convertir datos en decisiones en las que se pueda confiar.
 
 ---
 
