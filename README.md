@@ -1,6 +1,6 @@
-## Simón Bedoya
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0B1220&height=180&text=Sim%C3%B3n%20Bedoya%20Montiel&fontSize=38&fontColor=ffffff&fontAlignY=42&desc=Data%20Analyst%20%7C%20Python%20%C2%B7%20Power%20BI%20%C2%B7%20SQL&descAlignY=62&descSize=18&descColor=2dd4bf" width="100%" alt="Simón Bedoya Montiel — Data Analyst">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=2800&pause=900&color=2F81F7&vCenter=true&width=540&height=40&lines=Data+Scientist;Convierto+datos+en+decisiones;Ing.+de+Software+%2B+Ing.+Mecatr%C3%B3nica)](https://github.com/simonbm17)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=2800&pause=900&color=2dd4bf&vCenter=true&width=540&height=40&lines=Data+Scientist;Convierto+datos+en+decisiones;Ing.+de+Software+%2B+Ing.+Mecatr%C3%B3nica)](https://github.com/simonbm17)
 
 Soy Simón Bedoya, Data Analyst. En paralelo curso Ingeniería de Software e Ingeniería Mecatrónica.
 
@@ -12,10 +12,10 @@ Al final, de eso se trata todo esto para mí: entender bien un problema antes de
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,100:143B44&height=64&section=header&text=STACK&fontAlign=50&fontAlignY=58&fontSize=22&fontColor=E6EDF3" width="100%" alt="Stack">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0B1220&height=64&section=header&text=STACK&fontAlign=50&fontAlignY=58&fontSize=22&fontColor=E6EDF3" width="100%" alt="Stack">
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sklearn,postgresql,fastapi,docker,git,github&theme=dark" alt="Iconos: Python, scikit-learn, SQL, FastAPI, Docker, Git, GitHub">
+  <img src="https://skillicons.dev/icons?i=python,postgresql,fastapi,docker,git,github&theme=dark" alt="Iconos: Python, SQL, FastAPI, Docker, Git, GitHub">
 </p>
 
 **Datos**
@@ -48,7 +48,7 @@ Al final, de eso se trata todo esto para mí: entender bien un problema antes de
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,100:143B44&height=64&section=header&text=PROYECTOS&fontAlign=50&fontAlignY=58&fontSize=22&fontColor=E6EDF3" width="100%" alt="Proyectos">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0B1220&height=64&section=header&text=PROYECTOS&fontAlign=50&fontAlignY=58&fontSize=22&fontColor=E6EDF3" width="100%" alt="Proyectos">
 
 <a href="https://github.com/simonbm17/techcore-sales-dashboard">
   <img src="https://raw.githubusercontent.com/simonbm17/techcore-sales-dashboard/main/assets/diagrama_er.png" alt="TechCore: análisis de ventas y dashboard en Power BI" width="100%">
@@ -90,7 +90,7 @@ Pronóstico de demanda estacional para e-commerce, desarrollado con el equipo Me
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,100:143B44&height=64&section=header&text=FORMACI%C3%93N&fontAlign=50&fontAlignY=58&fontSize=22&fontColor=E6EDF3" width="100%" alt="Formación">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0B1220&height=64&section=header&text=FORMACI%C3%93N&fontAlign=50&fontAlignY=58&fontSize=22&fontColor=E6EDF3" width="100%" alt="Formación">
 
 - **Data Science** — Soy Henry _(finalizado)_
 - **Ingeniería de Software** _(en curso)_
@@ -106,6 +106,10 @@ Pronóstico de demanda estacional para e-commerce, desarrollado con el equipo Me
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=simonbm17&background=0B1220&ring=2dd4bf&fire=2dd4bf&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=2dd4bf&sideLabels=8b98ab&dates=5b6b82&border=143B44&hide_border=false" alt="Racha de contribuciones en GitHub">
+</p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/simonbm17/simonbm17/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simonbm17/simonbm17/output/github-snake.svg">
@@ -114,6 +118,6 @@ Pronóstico de demanda estacional para e-commerce, desarrollado con el equipo Me
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,100:143B44&height=64&section=header&text=CONTACTO&fontAlign=50&fontAlignY=58&fontSize=22&fontColor=E6EDF3" width="100%" alt="Contacto">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0B1220&height=64&section=header&text=CONTACTO&fontAlign=50&fontAlignY=58&fontSize=22&fontColor=E6EDF3" width="100%" alt="Contacto">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simon-bedoya-montiel/)
