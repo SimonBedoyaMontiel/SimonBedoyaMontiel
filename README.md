@@ -8,38 +8,6 @@ Me interesa el ciclo completo — desde la limpieza del dato hasta el modelo des
 
 ---
 
-### Proyectos
-
-<a href="https://github.com/simonbm17/credit-risk-mlops">
-  <img src="https://raw.githubusercontent.com/simonbm17/credit-risk-mlops/main/assets/banner.png" alt="Riesgo Crediticio con enfoque MLOps" width="100%">
-</a>
-
-Predicción del comportamiento de pago con el ciclo completo: EDA, cuatro modelos comparados y despliegue en una API con FastAPI y Docker. La primera evaluación daba un recall del 100%, sospechosamente perfecto — estaba midiendo la clase mayoritaria. Al corregirlo apareció el desempeño real sobre la clase que importa, la del 5%.
-
-`Python` · `scikit-learn` · `XGBoost` · `FastAPI` · `Docker` · `Streamlit`
-
-<br>
-
-<a href="https://github.com/simonbm17/bank-churn-prediction">
-  <img src="https://raw.githubusercontent.com/simonbm17/bank-churn-prediction/main/assets/banner.png" alt="FinanceGuard — Predicción de Churn Bancario" width="100%">
-</a>
-
-Predicción y segmentación de abandono en un banco digital. El hallazgo llegó por partida doble: K-Means, sin recibir la variable de abandono, identificó por su cuenta el mismo segmento de alto riesgo que ya habían señalado los modelos supervisados.
-
-`Python` · `scikit-learn` · `XGBoost` · `LightGBM` · `CatBoost` · `K-Means`
-
-<br>
-
-<a href="https://github.com/simonbm17/seasonal-stock-recommender">
-  <img src="https://raw.githubusercontent.com/simonbm17/seasonal-stock-recommender/main/assets/banner.png" alt="MetricEdge — Sistema de Predicción de Stock" width="100%">
-</a>
-
-Pronóstico de demanda estacional para e-commerce, desarrollado con el equipo MetricEdge. Comparamos tres métodos y ganó el más simple, con un error del 2,36%: agregar tendencia no aportaba nada en una serie sin crecimiento sostenido. **[Ver la demo en vivo →](https://final-proyect-irfde8x9bkbgmatc3ejyq7.streamlit.app/)**
-
-`Python` · `pandas` · `Streamlit` · `Power BI` · `statsmodels` · _proyecto en equipo_
-
----
-
 ### Stack
 
 **Datos**
@@ -69,6 +37,48 @@ Pronóstico de demanda estacional para e-commerce, desarrollado con el equipo Me
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
 ![Seaborn](https://img.shields.io/badge/Seaborn-5B8FA8?style=flat)
+
+---
+
+### Proyectos
+
+<a href="https://github.com/simonbm17/techcore-sales-dashboard">
+  <img src="https://raw.githubusercontent.com/simonbm17/techcore-sales-dashboard/main/assets/diagrama_er.png" alt="TechCore: análisis de ventas y dashboard en Power BI" width="100%">
+</a>
+
+Facturación cruda de una cadena de tiendas (30.307 facturas) llevada a un dashboard en Power BI con 9 medidas DAX. El hallazgo central: Medellín y Bogotá concentran el 75% de las ventas, y el negocio lleva diez años estable pero sin crecer.
+
+`Power BI` · `Power Query` · `DAX` · `Python` · `pandas`
+
+<br>
+
+<a href="https://github.com/simonbm17/credit-risk-mlops">
+  <img src="https://raw.githubusercontent.com/simonbm17/credit-risk-mlops/main/assets/banner.png" alt="Riesgo Crediticio con enfoque MLOps" width="100%">
+</a>
+
+Predicción del comportamiento de pago con el ciclo completo: EDA, cuatro modelos comparados y despliegue en una API con FastAPI y Docker. La primera evaluación daba un recall del 100%, sospechosamente perfecto — estaba midiendo la clase mayoritaria. Al corregirlo apareció el desempeño real sobre la clase que importa, la del 5%.
+
+`Python` · `scikit-learn` · `XGBoost` · `FastAPI` · `Docker` · `Streamlit`
+
+<br>
+
+<a href="https://github.com/simonbm17/bank-churn-prediction">
+  <img src="https://raw.githubusercontent.com/simonbm17/bank-churn-prediction/main/assets/banner.png" alt="FinanceGuard — Predicción de Churn Bancario" width="100%">
+</a>
+
+Predicción y segmentación de abandono en un banco digital. El hallazgo llegó por partida doble: K-Means, sin recibir la variable de abandono, identificó por su cuenta el mismo segmento de alto riesgo que ya habían señalado los modelos supervisados.
+
+`Python` · `scikit-learn` · `XGBoost` · `LightGBM` · `CatBoost` · `K-Means`
+
+<br>
+
+<a href="https://github.com/simonbm17/seasonal-stock-recommender">
+  <img src="https://raw.githubusercontent.com/simonbm17/seasonal-stock-recommender/main/assets/banner.png" alt="MetricEdge — Sistema de Predicción de Stock" width="100%">
+</a>
+
+Pronóstico de demanda estacional para e-commerce, desarrollado con el equipo MetricEdge. Comparamos tres métodos y ganó el más simple, con un error del 2,36%: agregar tendencia no aportaba nada en una serie sin crecimiento sostenido. **[Ver la demo en vivo →](https://final-proyect-irfde8x9bkbgmatc3ejyq7.streamlit.app/)**
+
+`Python` · `pandas` · `Streamlit` · `Power BI` · `statsmodels` · _proyecto en equipo_
 
 ---
 
