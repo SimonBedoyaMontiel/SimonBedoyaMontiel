@@ -2,13 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=2800&pause=900&color=2F81F7&vCenter=true&width=540&height=40&lines=Data+Scientist;Convierto+datos+en+decisiones;Ing.+de+Software+%2B+Ing.+Mecatr%C3%B3nica)](https://github.com/simonbm17)
 
-Soy Simón Bedoya, en camino a convertirme en Analista de Datos y Data Scientist. Estudio Ingeniería de Software e Ingeniería Mecatrónica, y en 2026 completé el bootcamp de Data Science de Henry.
+Soy Simón Bedoya, Data Analyst. Busco mi primer empleo como Analista de Datos Jr, y en paralelo sigo cursando Ingeniería de Software e Ingeniería Mecatrónica.
 
-Lo que aporto es una combinación poco común: entiendo sistemas completos por mi formación en mecatrónica, sé construir software mantenible por mi formación en ingeniería de software, y sé extraer conclusiones confiables de los datos por mi formación en ciencia de datos. Esa mezcla me lleva a cuestionar los resultados antes de darlos por buenos: prefiero entender qué mide realmente una métrica antes de reportarla como un logro.
+Vengo de tres formaciones que se complementan: mecatrónica me enseñó a pensar en sistemas completos, ingeniería de software a construir código mantenible, y ciencia de datos a sacarle conclusiones confiables a la información. Esa base me lleva a revisar qué mide realmente una métrica antes de darla por buena, en vez de quedarme con el número que se ve bien.
 
-Trabajo principalmente con Python, pandas, scikit-learn, Power BI y SQL, que sigo reforzando todos los días. Me interesa especialmente la parte del trabajo que muchas veces se deja de lado: que un modelo siga funcionando bien después de entregado, no solo el día que se entrena.
+Trabajo principalmente con Python, pandas, Power BI y SQL, que sigo reforzando todos los días. Mi enfoque está en el análisis de datos, aunque también aplico modelos de machine learning cuando el problema lo requiere, y me interesa que las soluciones sigan funcionando bien después de entregadas, no solo el día que se construyen.
 
-Estoy buscando mi primera oportunidad profesional como Analista de Datos o Data Scientist junior. Si mi perfil encaja con lo que necesita tu equipo, conversemos.
+Estoy buscando mi primer empleo como Analista de Datos. Si mi perfil encaja con lo que necesita tu equipo, conversemos.
 
 ---
 
