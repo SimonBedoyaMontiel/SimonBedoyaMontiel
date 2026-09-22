@@ -2,13 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=2800&pause=900&color=2F81F7&vCenter=true&width=540&height=40&lines=Data+Scientist;Convierto+datos+en+decisiones;Ing.+de+Software+%2B+Ing.+Mecatr%C3%B3nica)](https://github.com/simonbm17)
 
-Estudio Ingeniería de Software e Ingeniería Mecatrónica, y en 2026 terminé el bootcamp de Data Science de Henry. Mi experiencia hasta ahora son cuatro proyectos completos, de punta a punta: el código, los datos y los resultados están en cada repositorio.
+Soy Simón Bedoya, en camino a convertirme en Analista de Datos y Data Scientist. Estudio Ingeniería de Software e Ingeniería Mecatrónica, y en 2026 completé el bootcamp de Data Science de Henry.
 
-En uno de ellos, una primera evaluación me dio un recall del 100%, un resultado sospechosamente perfecto. Estaba midiendo la clase equivocada, la mayoritaria, en vez de la que le importaba al negocio. Corregirlo cambió por completo qué modelo terminó siendo el correcto. Ese es el tipo de rigor que aplico en cada proyecto: no me quedo con el número que se ve bien, reviso qué está midiendo de verdad.
+Lo que aporto es una combinación poco común: entiendo sistemas completos por mi formación en mecatrónica, sé construir software mantenible por mi formación en ingeniería de software, y sé extraer conclusiones confiables de los datos por mi formación en ciencia de datos. Esa mezcla me lleva a cuestionar los resultados antes de darlos por buenos: prefiero entender qué mide realmente una métrica antes de reportarla como un logro.
 
-Trabajo con Python, pandas, scikit-learn, Power BI y SQL, que sigo reforzando. Me interesa en particular la parte que pocos cursos priorizan: que el modelo llegue a producción y alguien pueda confiar en él meses después. Por eso dos de mis proyectos incluyen despliegue con Docker y FastAPI, y monitoreo de data drift, no solo el entrenamiento del modelo.
+Trabajo principalmente con Python, pandas, scikit-learn, Power BI y SQL, que sigo reforzando todos los días. Me interesa especialmente la parte del trabajo que muchas veces se deja de lado: que un modelo siga funcionando bien después de entregado, no solo el día que se entrena.
 
-Busco mi primera oportunidad como Analista de Datos o Data Scientist Jr. Si algo de esto te interesa, hablemos.
+Estoy buscando mi primera oportunidad profesional como Analista de Datos o Data Scientist junior. Si mi perfil encaja con lo que necesita tu equipo, conversemos.
 
 ---
 
