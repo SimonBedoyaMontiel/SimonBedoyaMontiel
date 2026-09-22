@@ -2,9 +2,11 @@
 
 <p align="center">
   <a href="https://github.com/simonbm17">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=2800&pause=900&color=58a6ff&center=true&vCenter=true&width=540&height=40&lines=Data+Scientist;Convierto+datos+en+decisiones;Ing.+de+Software+%2B+Ing.+Mecatr%C3%B3nica" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=2800&pause=900&color=58a6ff&center=true&vCenter=true&width=540&height=40&lines=Data+Analyst;Convierto+datos+en+decisiones;Ing.+de+Software+%2B+Ing.+Mecatr%C3%B3nica" alt="Typing SVG">
   </a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0B1220&height=64&section=header&text=SOBRE%20M%C3%8D&fontAlign=50&fontAlignY=58&fontSize=22&fontColor=E6EDF3" width="100%" alt="Sobre mí">
 
 Soy Simón Bedoya, Data Analyst. En paralelo curso Ingeniería de Software e Ingeniería Mecatrónica.
 
@@ -21,6 +23,8 @@ Al final, de eso se trata todo esto para mí: entender bien un problema antes de
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,postgresql,fastapi,docker,git,github&theme=dark" alt="Iconos: Python, SQL, FastAPI, Docker, Git, GitHub">
 </p>
+
+<div align="center">
 
 **Datos**
 
@@ -49,6 +53,8 @@ Al final, de eso se trata todo esto para mí: entender bien un problema antes de
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
 ![Seaborn](https://img.shields.io/badge/Seaborn-5B8FA8?style=flat)
+
+</div>
 
 ---
 
@@ -124,4 +130,8 @@ Pronóstico de demanda estacional para e-commerce, desarrollado con el equipo Me
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0B1220&height=64&section=header&text=CONTACTO&fontAlign=50&fontAlignY=58&fontSize=22&fontColor=E6EDF3" width="100%" alt="Contacto">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simon-bedoya-montiel/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/simon-bedoya-montiel/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
